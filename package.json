@@ -1,0 +1,8 @@
+  {
+	"depends": ["lnode"],
+	"description": "Vision Framework",
+	"filename": "vision.package",
+	"name": "vision",
+	"tags": ["vision", "runtime"],
+	"version": "2.0.15"
+  }
